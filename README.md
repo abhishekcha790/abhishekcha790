@@ -1,6 +1,10 @@
-   Hi 👋, I'm Abhishek Chauhan
+  <div align="center">
 
-   A passionate developer from India
+# Hi 👋, I'm Abhishek Chauhan  
+
+A passionate developer from India  
+
+</div>
 
 💫 About Me:
 🔭 I’m currently working on MERN Stack.<br><br>🌱 I’m currently learning about Socket.io for project.<br><br>👨‍💻 All of my projects are available at https://abhishek-five.vercel.app/<br><br>💬 Ask me about Javascript, Node.js, React, Postgresql, MongoDB Etc.<br><br>📫 How to reach me abhishekcha._
